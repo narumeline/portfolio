@@ -1,0 +1,29 @@
+
+.partie_1{
+    /*background: url('p1.png');*/
+    background-position: center;
+    height: 100vh;
+    background-size: 100%;
+    /*filter:opacity(50%);*/
+    z-index: 0;
+
+}
+
+/*
+#compétences{
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-top:50px;
+    margin-left: 120px;
+    color:rgb(47, 111, 143);
+    background-color: rgb(255, 255, 255);
+    border-radius:75%;
+}
+
+*/
+#outils{
+
+}
+#projets{
+
+}
